@@ -24,3 +24,4 @@ if (scores.length > 0) {
     const average = parseInt(total/scores.length); 
     document.write(`<p>Average score is ${average}</p>`);
 }
+
